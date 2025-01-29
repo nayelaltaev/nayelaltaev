@@ -12,6 +12,8 @@ HardSkills
 ![English_level_B2](https://img.shields.io/badge/English_level_B2-4275ff?style=plastic)
 ![SQL](https://img.shields.io/badge/SQL-4275ff?style=plastic)
 
+![javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+
 Follow Me
 
 [![Instagram](https://img.shields.io/badge/-Instagram-4275ff?style=plastic&?style=for-the-badge&logo=instagram&logoColor=fabf01)](https://www.instagram.com/nayel_altaev)

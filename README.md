@@ -1,4 +1,4 @@
-[![Header](https://github.com/nayelaltaev/nayelaltaev/blob/main/assets/chel.png)]
+![Header](https://github.com/nayelaltaev/nayelaltaev/blob/main/assets/chel.png)
 
 ## I am QA Engineer
 

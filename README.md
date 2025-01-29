@@ -25,8 +25,17 @@ HardSkills
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
+<p align="center">
+  <a href="https://github.com/ТВОЙ_GITHUB"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://t.me/ТВОЙ_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:ТВОЙ_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/ТВОЙ_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
 Follow Me
 
 [![Instagram](https://img.shields.io/badge/-Instagram-4275ff?style=plastic&?style=for-the-badge&logo=instagram&logoColor=fabf01)](https://www.instagram.com/nayel_altaev)
 [![Telegram](https://img.shields.io/badge/-Telegram-4275ff?style=plastic&style=for-the-badge&logo=telegram&logoColor=fabf01)](https://t.me/n_altaisky)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-4275ff?style=plastic&?style=for-the-badge&logo=linkedin&logoColor=fabf01)](https://www.linkedin.com/in/nayel-akylbek-8738b7251/)
+
+⭐ Ставьте лайк, подписывайтесь! 😉

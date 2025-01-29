@@ -12,7 +12,7 @@ HardSkills
 ![English_level_B2](https://img.shields.io/badge/English_level_B2-4275ff?style=plastic)
 ![SQL](https://img.shields.io/badge/SQL-4275ff?style=plastic)
 
-![javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![javascript](https://img.shields.io/badge/javascript-blue?logo=javascript)
 
 Follow Me
 

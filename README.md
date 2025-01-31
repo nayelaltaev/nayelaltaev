@@ -12,8 +12,6 @@ HardSkills
 ![English_level_B2](https://img.shields.io/badge/English_level_B2-4275ff?style=plastic)
 ![SQL](https://img.shields.io/badge/SQL-4275ff?style=plastic)
 
-![javascript size="20px"](https://img.shields.io/badge/javascript-blue?logo=javascript)
-
 ### 🚀 Технологии и инструменты
 
 <p>
